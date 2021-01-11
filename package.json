@@ -1,0 +1,17 @@
+{
+  "name": "useless-npm-module",
+  "version": "1.0.0",
+  "description": "a useless npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "useless"
+  ],
+  "author": "WilloIzCitron",
+  "license": "MIT",
+  "dependencies": {
+    "flip-text": "^1.1.0"
+  }
+}
