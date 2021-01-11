@@ -10,8 +10,13 @@
     "useless"
   ],
   "author": "WilloIzCitron",
-  "license": "MIT",
-  "homepage": "http://github.com/manavshrivastavagit/simple-hello-world-example",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/willoizcitron/useless-npm-module/LICENSE"
+    }
+  ],
+  "homepage": "http://github.com/willoizcitron/useless-npm-module",
   "dependencies": {
     "flip-text": "^1.1.0"
   },
