@@ -4,14 +4,19 @@
   "description": "a useless npm module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "keywords": [
     "useless"
   ],
   "author": "WilloIzCitron",
   "license": "MIT",
+  "homepage": "http://github.com/manavshrivastavagit/simple-hello-world-example",
   "dependencies": {
     "flip-text": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/willoizcitron/useless-npm-module.git"
   }
 }
