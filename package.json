@@ -1,6 +1,6 @@
 {
   "name": "useless-npm-module",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "a useless npm module",
   "main": "index.js",
   "scripts": {
