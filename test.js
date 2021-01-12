@@ -1,3 +1,3 @@
 const myapp = require(".");
 
-console.log(myapp.textgen("flipped", "ae"))
+console.log(myapp.textgen("fliped", "ae"))
