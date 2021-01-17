@@ -20,6 +20,9 @@
   "dependencies": {
     "flip-text": "^1.1.0"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "repository": {
     "type": "git",
     "url": "http://github.com/willoizcitron/useless-npm-module.git"
