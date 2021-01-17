@@ -21,7 +21,7 @@
     "flip-text": "^1.1.0"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/willoizcitron"
+    "registry": "https://npm.pkg.github.com/@willoizcitron"
   },
   "repository": {
     "type": "git",
