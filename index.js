@@ -23,6 +23,6 @@ exports.textgen = function(query, ctx) {
     if(query == "flipped"){
         return fliptext(ctx)
     }else{
-        throw new ReferenceError(`\"${query}\" itsn't defined`)
+        throw new ReferenceError(`\"${query}\" its not defined`)
     }
 }
